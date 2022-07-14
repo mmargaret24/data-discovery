@@ -129,6 +129,7 @@ dmypy.json
 .pyre/
 
 # Folders
-data/
+data/historical_data
+archive/
 
 .DS_Store
