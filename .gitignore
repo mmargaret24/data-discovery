@@ -131,3 +131,4 @@ dmypy.json
 # Folders
 data/
 
+.DS_Store
