@@ -133,3 +133,4 @@ data/historical_data
 archive/
 
 .DS_Store
+data/.Rhistory
